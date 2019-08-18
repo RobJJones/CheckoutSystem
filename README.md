@@ -9,6 +9,9 @@ With more time a lot of refactoring and improvements would have been completed.
 
 This was completed with minimal libraries to reduce download size.
 
+classes com.test.checkout.PricingRules and com.test.checkout.ItemList hardcoding would be replaced
+normally with a dao, service etc calls 
+
 Example output
 --------------
 
